@@ -17,7 +17,8 @@ class ViewController: UIViewController {
 
     
     @IBAction func btnShowtoast(_ sender : Any){
-        showToast(message:"Message Successfully Show!!!")
+        //You give any type of message
+        showToast(message:"Message Successfully Show!!")
     }
 
 }
